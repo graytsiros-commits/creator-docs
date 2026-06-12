@@ -7,7 +7,7 @@ description: The Creator Store is where you can find all assets for public use i
 
 <br />
 
-The **Creator Store** is a marketplace that features millions of assets made by Roblox and independent creators for others to use within their game development. It includes many different types of assets, such as 3D model asset packs, materials, Studio plugins, gameplay scripts, UI elements, and sound effects.
+The **Store** is a marketplace that features millions of assets made by Roblox and independent creators for others to use within their game development. It includes many different types of assets, such as 3D model asset packs, materials, Studio plugins, gameplay scripts, UI elements, and sound effects.
 
 You can find the Creator Store both on the [Creator Hub](https://create.roblox.com/store) and directly inside Studio's [Toolbox](../projects/assets/toolbox.md). Both access points allow you to find and save assets to your inventory so that you can reuse the assets in any of your projects.
 
